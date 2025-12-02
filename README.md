@@ -1,4 +1,4 @@
-# **EmbeddingClusteringVectorizationWorkshop ** 
+# **EmbeddingClusteringVectorizationWorkshop** 
 
 ### **Team Member:** 
    - *Sabrina Ronnie George Karippatt*
